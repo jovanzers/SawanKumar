@@ -9,3 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawankumar&layout=compact" />
 </a>
 </p>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/sawankumar/sawankumar/master/assets/activity.png" />
+</div>
