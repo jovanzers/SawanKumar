@@ -6,5 +6,5 @@
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=sawankumar&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawankumar&hide_border=true)](https://github.com/sawankumar/GithubProfile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawankumar&layout=compact&hide_border=true)](https://github.com/sawankumar/GithubProfile)
 
